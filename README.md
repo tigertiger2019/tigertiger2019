@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning tensor flow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 - 
 
 <!---
